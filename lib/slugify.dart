@@ -1,4 +1,4 @@
-library slugify;
+library slugify2;
 
 class Slugify {
 

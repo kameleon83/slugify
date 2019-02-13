@@ -1,4 +1,4 @@
-import 'package:slugify/slugify.dart';
+import 'package:slugify2/slugify.dart';
 
 void main() {
 

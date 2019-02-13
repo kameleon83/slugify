@@ -1,4 +1,4 @@
-name: slugify
+name: slugify2
 version: 0.2.0
 description: Converts strings into slugs, for pretty URLs
 author: kameleon83 <kameleon836@gmail.com>
