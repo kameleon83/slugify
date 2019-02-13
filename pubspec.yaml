@@ -1,7 +1,7 @@
 name: slugify
 version: 0.2.0
 description: Converts strings into slugs, for pretty URLs
-author: kameleon83
+author: kameleon83 <kameleon836@gmail.com>
 homepage: https://github.com/kameleon83/slugify
 environment:
   sdk: ">=2.0.0-dev <3.0.0"
