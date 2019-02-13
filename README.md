@@ -1,3 +1,5 @@
+# Fork
+This original repository : https://github.com/izolate/slugify 
 # slugify
 
 Converts strings to slugs, for pretty URLs
